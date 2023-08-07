@@ -5,7 +5,7 @@ Summary:	A very complete gui for video encoding
 License:	custom
 BuildRequires:	curl
 BuildRequires:	unzip
-Requires:	FrameCounter
+Requires:	framecounter
 Requires:	freetype
 Requires:	glib2
 Requires:	openssl
