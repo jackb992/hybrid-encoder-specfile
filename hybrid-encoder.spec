@@ -1,4 +1,4 @@
-Name:		Hybrid
+Name:		hybrid-encoder
 Version:	20230317
 Release:	1
 Summary:	A very complete gui for video encoding
