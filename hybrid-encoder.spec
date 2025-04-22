@@ -1,5 +1,5 @@
 Name:		hybrid-encoder
-Version:	20240929
+Version:	20250309
 Release:	1
 Summary:	A very complete gui for video encoding
 License:	custom
@@ -24,7 +24,7 @@ Recommends:	sox
 Recommends:	wine
 Recommends:	x264
 Recommends:	x265
-URL:		https://www.selur.de/sites/default/files/hybrid_downloads/Hybrid_20240929_64bit_binary_qt515.zip
+URL:		https://drive.google.com/uc?export=download&id=1jDw9o3L_QP-QbKqjhi9CKkvtb-e-iXlm
 Source0:	Hybrid.png
 Source1:	hybrid.desktop
 Source2:	LICENSE
