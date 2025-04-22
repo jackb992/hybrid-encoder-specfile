@@ -33,7 +33,7 @@ Source2:	LICENSE
 A very complete gui for video encoding
 
 %prep
-curl %{url} -o hybrid.zip
+curl -L %{url} -o hybrid.zip
 unzip hybrid.zip
 
 %install
