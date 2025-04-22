@@ -24,7 +24,7 @@ Recommends:	sox
 Recommends:	wine
 Recommends:	x264
 Recommends:	x265
-URL:		https://drive.google.com/uc?export=download&id=1jDw9o3L_QP-QbKqjhi9CKkvtb-e-iXlm
+URL:		https://github.com/jackb992/hybrid-encoder-specfile/raw/refs/heads/main/Hybrid_20250309_64bit_binary_qt515.zip
 Source0:	Hybrid.png
 Source1:	hybrid.desktop
 Source2:	LICENSE
