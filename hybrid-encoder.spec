@@ -1,5 +1,5 @@
 Name:		hybrid-encoder
-Version:	20250309
+Version:	20250727
 Release:	1
 Summary:	A very complete gui for video encoding
 License:	custom
